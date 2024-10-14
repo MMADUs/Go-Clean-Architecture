@@ -1,0 +1,5 @@
+// proto definitions go here
+
+// protoc --proto_path=proto --go_out=pb --go-grpc_out=pb proto/*.proto
+
+// the command above would generate any proto file to a dir called /pb
